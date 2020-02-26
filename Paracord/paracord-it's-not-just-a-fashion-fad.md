@@ -29,7 +29,17 @@ Operation Gratitude is an organization that makes care packages for our men and 
 
 # Why am I the best person to give this talk:  
 
+Military Service is a very big part of our family. 
+I frew up in the Army. 
+Both of my sons have proudly served this country, two of my granddaughter's father's are currently serving our country. 
+My sister-in-law is 17 months in a 18 month deployment at the writing of this article. 
+My husband and I have been making care packages and braclets for Operation Gratitude going on 5 years now. 
+We love sharing about this organization, and the importance of what they do. 
+
 # Project details:
+
+This project requires 3 items 
+**550 paracord
 
 # Project materials:
 
