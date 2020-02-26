@@ -46,14 +46,17 @@ If accepted we will try and either get a representative from Operation Gratitude
 The second half, we will work with the kids/participants, with the pre-made kits that we will build over the summer. 
 The particpants will make two braclets, one for themselves, and one for a service member to be sent via Operation Gratitude, along with a card. 
 
-## This project requires few items: 
+# Project materials:
+
 *550 paracord - We will explain why this is important*
 *paracord jig - We will provide*
 *clasps - We will provide*
 *Note Cards - so that the kids can send a note with their braclet*
-
-
-
-# Project materials:
-
 # Project resources:
+
+# [Operation Gratitude - Official Website](https://www.operationgratitude.com/)
+
+# [Operation Gratitude paracord bracklets Instructions](https://www.operationgratitude.com/express-your-thanks-group/paracord-bracelets/)
+
+# [Paracord Jig Instruction video](https://www.youtube.com/watch?v=s_pulvLVD-Y)
+
