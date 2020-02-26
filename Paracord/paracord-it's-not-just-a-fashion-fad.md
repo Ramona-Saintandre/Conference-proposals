@@ -38,8 +38,13 @@ We love sharing about this organization, and the importance of what they do.
 
 # Project details:
 
-This project requires 3 items 
-**550 paracord
+## This project requires few items: 
+*550 paracord - We will explain why this is important*
+*paracord jig - We will provide*
+*clasps - We will provide*
+*Note Cards - so that the kids can send a note with their braclet*
+
+
 
 # Project materials:
 
