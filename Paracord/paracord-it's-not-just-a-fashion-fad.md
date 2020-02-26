@@ -38,6 +38,14 @@ We love sharing about this organization, and the importance of what they do.
 
 # Project details:
 
+We are looking at this being a 90 minute session. 
+The first 30 minutes, we will go over what paracord is, show some examples of it's versitlity. 
+We will also give an overview of Operation Gratitude.
+If accepted we will try and either get a representative from Operation Gratitude, or a service  person to help with this part. 
+
+The second half, we will work with the kids/participants, with the pre-made kits that we will build over the summer. 
+The particpants will make two braclets, one for themselves, and one for a service member to be sent via Operation Gratitude, along with a card. 
+
 ## This project requires few items: 
 *550 paracord - We will explain why this is important*
 *paracord jig - We will provide*
