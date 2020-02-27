@@ -49,3 +49,5 @@
 
 [Blinky Lights Project](http://developinginnovators.com/wpdi/?p=3710)
 
+[Valentine’s Day Glow LED Circuit STEAM Activity](https://www.steampoweredfamily.com/activities/valentines-day-glow-led-circuit-steam-activity/)
+
