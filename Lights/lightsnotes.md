@@ -33,3 +33,7 @@
 
 [Mini LED Flashlight](https://www.instructables.com/id/Mini-LED-flashlight/)
 
+[LED Cork Light](https://www.instructables.com/id/LED-Cork-Light/)
+
+[Flashbanz LED Bracelet with Paracord-video](https://www.youtube.com/watch?v=xsc3F6n8xRs)
+
