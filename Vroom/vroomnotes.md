@@ -12,3 +12,5 @@
 
 
 [Magnet Powered Car ](https://www.sciencekiddo.com/magnet-powered-car/)
+
+[Balloon car lesson plan VIDEO](https://www.youtube.com/watch?v=jr3BOE_EpOk)

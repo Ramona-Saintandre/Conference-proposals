@@ -56,3 +56,7 @@
 [How to Make Electric Play-Doh](https://www.wired.com/2012/05/ff_playdoh/)
 
 [Circuit Bugs – The original creator of Circuit Bugs!](https://www.steampoweredfamily.com/activities/circuit-bugs/)
+
+## supplies
+
+[Paper Circuits Kits - Featuring Maker Tape!](https://www.browndoggadgets.com/products/paper-circuits-conductive-tape-kit)

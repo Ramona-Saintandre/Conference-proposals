@@ -8,3 +8,5 @@
 
 [Straw Rockets (with Free Rocket Template)](https://buggyandbuddy.com/straw-rockets-with-free-rocket-template/)
 
+[How to Make a Pool Noodle Rocket Flinger](https://frugalfun4boys.com/how-to-make-a-pool-noodle-rocket-flinger/)
+
