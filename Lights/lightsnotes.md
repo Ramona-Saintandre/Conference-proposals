@@ -13,7 +13,7 @@
 
 [Craft Stick "Candles"](https://www.instructables.com/id/Craft-Stick-Candles/)
 
-
+[POPSICLE STICK LED FLASHLIGHT](https://www.funlovingfamilies.com/popsicle-stick-led-flashlight-summer-stem-activity/)
 
 
 
