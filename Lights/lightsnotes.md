@@ -37,3 +37,7 @@
 
 [Flashbanz LED Bracelet with Paracord-video](https://www.youtube.com/watch?v=xsc3F6n8xRs)
 
+
+[LED Foam Bracelet](https://www.instructables.com/id/LED-Foam-Bracelet/)
+
+
