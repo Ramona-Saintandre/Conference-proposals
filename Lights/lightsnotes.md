@@ -15,6 +15,12 @@
 
 [POPSICLE STICK LED FLASHLIGHT](https://www.funlovingfamilies.com/popsicle-stick-led-flashlight-summer-stem-activity/)
 
+[LED Popsicle Flashlight](https://www.instructables.com/id/LED-Popsicle-Flashlight/)
+
+
+[How to Make a Flashing LED Paracord Bracelet](https://www.instructables.com/id/How-To-Make-A-Flashing-LED-Paracord-Bracelet/)
+
+
 
 
 
