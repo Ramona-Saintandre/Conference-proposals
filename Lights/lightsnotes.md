@@ -40,4 +40,12 @@
 
 [LED Foam Bracelet](https://www.instructables.com/id/LED-Foam-Bracelet/)
 
+[LED Pipe Cleaner Bracelet](https://www.instructables.com/id/LED-Pipe-Cleaner-Bracelet/)
+
+
+[BraceLED w/video](https://www.instructables.com/id/BraceLED/)
+
+[5 Ideas to Teach Light](https://thesciencepenguin.com/2014/07/time-to-teach-reflection-and-refraction-of-light.html)
+
+[Blinky Lights Project](http://developinginnovators.com/wpdi/?p=3710)
 
