@@ -27,5 +27,9 @@
 
 [Glow Salt Circuit ](https://www.steampoweredfamily.com/activities/glow-salt-circuit-steam-activity-for-kids/)
 
+[ Altoids Smalls LED Flashlight](https://www.instructables.com/id/A-Better-Altoids-Smalls-LED-Flashlight/)
 
+[Circuit Bugs ](https://www.steampoweredfamily.com/activities/circuit-bugs/)
+
+[Mini LED Flashlight](https://www.instructables.com/id/Mini-LED-flashlight/)
 
