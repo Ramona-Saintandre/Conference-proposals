@@ -4,3 +4,6 @@
 
 [HOW TO MAKE A RUBBER BAND CAR](https://craftsbyamanda.com/make-rubber-band-car/)
 
+[Super Simple STEM Car](https://www.makerspaces.com/super-simple-stem-car/)
+
+
