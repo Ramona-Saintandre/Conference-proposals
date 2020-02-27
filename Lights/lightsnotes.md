@@ -20,7 +20,12 @@
 
 [How to Make a Flashing LED Paracord Bracelet](https://www.instructables.com/id/How-To-Make-A-Flashing-LED-Paracord-Bracelet/)
 
+[EZ LED Glasses](https://www.instructables.com/id/EZ-LED-Glasses/)
 
+
+[ DIY Magnetic LED Lights](https://buggyandbuddy.com/led-throwies/)
+
+[Glow Salt Circuit ](https://www.steampoweredfamily.com/activities/glow-salt-circuit-steam-activity-for-kids/)
 
 
 
