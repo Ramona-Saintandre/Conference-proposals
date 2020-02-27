@@ -51,3 +51,6 @@
 
 [Valentine’s Day Glow LED Circuit STEAM Activity](https://www.steampoweredfamily.com/activities/valentines-day-glow-led-circuit-steam-activity/)
 
+[LED / Paper Clip Hybrid](https://makezine.com/2011/04/01/led-paper-clip-hybrid/)
+
+[How to Make Electric Play-Doh](https://www.wired.com/2012/05/ff_playdoh/)
