@@ -9,6 +9,12 @@
 [How to Make a Mini Robot bug](https://mycrafts.com/diy/how-to-make-a-mini-robot-bug/)
 
 
+[Ultimate Felt Bracelet With LEDs](https://www.instructables.com/id/Ultimate-Felt-Bracelet-with-LEDs/)
+
+[Craft Stick "Candles"](https://www.instructables.com/id/Craft-Stick-Candles/)
+
+
+
 
 
 
