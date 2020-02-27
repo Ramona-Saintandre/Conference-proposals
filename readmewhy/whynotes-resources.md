@@ -1,7 +1,6 @@
 [How to Write an Awesome GitHub README](https://dev.to/healeycodes/how-to-write-an-awesome-github-readme-2ldc)
 
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 [Generate beautiful README in 10 seconds](https://dev.to/kefranabg/generate-beautiful-readme-in-10-seconds-38i2)
 
 [A meaningful README.md](https://dev.to/pratikaambani/a-meaningful-readmemd-565a)
