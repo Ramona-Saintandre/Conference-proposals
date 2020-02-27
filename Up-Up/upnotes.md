@@ -6,3 +6,5 @@
 
 [EASTER EGG POM-POM-POPPERS](https://teachbesideme.com/easter-egg-pom-pom-poppers/)
 
+[Straw Rockets (with Free Rocket Template)](https://buggyandbuddy.com/straw-rockets-with-free-rocket-template/)
+
