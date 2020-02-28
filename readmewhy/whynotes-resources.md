@@ -3,20 +3,17 @@
 
 [Generate beautiful README in 10 seconds](https://dev.to/kefranabg/generate-beautiful-readme-in-10-seconds-38i2)
 
-[A meaningful README.md](https://dev.to/pratikaambani/a-meaningful-readmemd-565a)
 
-[Demo your App in your GitHub README with an Animated GIF](https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c)
+
+[Demo your App in your GitHub README with an Animated GIF NOTE: how to generate an animated gif](https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c)
 
 [Add this to your project's README for maximum impact](https://dev.to/usaspiff/add-this-to-your-project-s-readme-for-maximum-impact-f6m)
 
-[How to write a good README? #discuss](https://dev.to/jmfayard/how-to-write-a-good-readme-discuss-4hkl)
-
-[Top 5 Awesome Things to do in your README!](https://dev.to/kumar_abhirup/5-must-have-badges-to-add-in-your-readme-14c3)
 
 
-[how-i-write-a-readme-md-for-my-github-projects](https://dev.to/dmendoza99/how-i-write-a-readme-md-for-my-github-projects-3cp2)
+## [Top 5 Awesome Things to do in your README!](https://dev.to/kumar_abhirup/5-must-have-badges-to-add-in-your-readme-14c3)
 
-[make-your-project-readme-file-stand-out-with-animated-gifs-svgs](https://dev.to/brpaz/make-your-project-readme-file-stand-out-with-animated-gifs-svgs-4kpe)
+[make-your-project-readme-file-stand-out-with-animated-gifs-svgs NOTE:RECORDING YOUR TERMINAL](https://dev.to/brpaz/make-your-project-readme-file-stand-out-with-animated-gifs-svgs-4kpe)
 
 
 [github-readmes-and-markdown-easier](https://dev.to/robertjgabriel/writing-github-readmes-and-markdown-easier--d75)
@@ -47,6 +44,8 @@
 
 [how-to-write-a-kickass-readme](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
 
+[readme-generator-repo](https://github.com/kefranabg/readme-md-generator)   
 
 
-
+[Readme sample](https://github.com/liyasthomas/postwoman)
+[Awesome Readme's](https://github.com/matiassingers/awesome-readme)
