@@ -3,13 +3,13 @@
 
 [Generate beautiful README in 10 seconds](https://dev.to/kefranabg/generate-beautiful-readme-in-10-seconds-38i2)
 
-
+[readme templates](https://github.com/kylelobo/The-Documentation-Compendium)
 
 [Demo your App in your GitHub README with an Animated GIF NOTE: how to generate an animated gif](https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c)
 
 [Add this to your project's README for maximum impact](https://dev.to/usaspiff/add-this-to-your-project-s-readme-for-maximum-impact-f6m)
 
-
+[How to write a README that rocks](https://m.dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a)
 
 ## [Top 5 Awesome Things to do in your README!](https://dev.to/kumar_abhirup/5-must-have-badges-to-add-in-your-readme-14c3)
 
@@ -40,12 +40,18 @@
 
 [leonardofaria/manager-readme](https://dev.to/leonardofaria/manager-readme-26km)
 
-[generate-all-the-things-readme-generator-dev-to-generator](https://dev.to/opensourcedeveloperpodcast/generate-all-the-things-readme-generator-dev-to-generator)
+[generate-all-the-things-readme-generator-dev-to-generator NOTE:PODCAST](https://dev.to/opensourcedeveloperpodcast/generate-all-the-things-readme-generator-dev-to-generator)
 
 [how-to-write-a-kickass-readme](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
 
 [readme-generator-repo](https://github.com/kefranabg/readme-md-generator)   
 
 
+
+
+
+## extensions 
+
+[readme-jsx](https://github.com/solidsnail/readme-jsx)
 [Readme sample](https://github.com/liyasthomas/postwoman)
 [Awesome Readme's](https://github.com/matiassingers/awesome-readme)
