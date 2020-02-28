@@ -45,7 +45,7 @@
 [how-to-write-a-kickass-readme](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
 
 [readme-generator-repo](https://github.com/kefranabg/readme-md-generator)   
-
+[readme-generator-documentation](https://www.npmjs.com/package/readme-md-generator)
 
 
 
